@@ -34,4 +34,19 @@ fun main (){
         val NuevoNumero: Double = 23232.2231
 
     }
+
+    fun ShowMyAge(edadActual: Int) {
+
+    }
+
+    fun main(){
+
+        var edadActual = 0
+
+    }
+
+
+
+
+
 }
