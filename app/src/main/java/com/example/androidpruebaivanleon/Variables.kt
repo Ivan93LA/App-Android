@@ -39,14 +39,23 @@ fun main (){
 
     }
 
+    fun ifBasico() {
+        val name = "Ivan"
+
+        if(name=="Ivan") {
+            println("La variable name es Ivan")
+        }
+    }
+
     fun main(){
 
         var edadActual = 0
-
+        ifBasico()
     }
 
 
-
+   
 
 
 }
+
